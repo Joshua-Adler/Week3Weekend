@@ -1,0 +1,1 @@
+﻿Run main.py in command prompt with your window size set to 120x30, using a monospace font
